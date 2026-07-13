@@ -13,5 +13,5 @@ https://doi.org/10.31219/osf.io/3hqfu_v2<br/>
 
 
 时间膨胀论文 v3<br/>
-大家可以直接在 github 中下载论文<br/>
-或是到 https://doi.org/10.5281/zenodo.21308564 中下载<br/>
+大家可以直接在 github 下载论文<br/>
+或是到 https://doi.org/10.5281/zenodo.21308564 下载<br/>
